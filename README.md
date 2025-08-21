@@ -1,5 +1,5 @@
 # internet
- 
+ - Welcome to information about internet.
 ## internet v1
 - Internet v1 since born till currently, main network location v1.main-net. Properties of Rockefeller Family and Rothschild Family.
 ## internet v2
